@@ -69,6 +69,8 @@ GEM
       activesupport (= 3.2.2)
       bundler (~> 1.0)
       railties (= 3.2.2)
+    rails_qaptcha (0.0.5)
+      rails
     railties (3.2.2)
       actionpack (= 3.2.2)
       activesupport (= 3.2.2)
@@ -106,5 +108,6 @@ DEPENDENCIES
   jquery-rails
   mysql2
   rails (= 3.2.2)
+  rails_qaptcha
   sass-rails (~> 3.2.3)
   uglifier (>= 1.0.3)
